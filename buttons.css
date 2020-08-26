@@ -1,15 +1,15 @@
-.fight-stick .button a { 
-background: #39B54A !important;
+.fight-stick .a { 
+    background: #39B54A !important;
 }
 
-.fight-stick .button b {
-background: #C1272D !important;
+.fight-stick .b {
+    background: #C1272D !important;
 }
 
-.fight-stick .button x {
-background: #0071BC !important;
+.fight-stick .x {
+    background: #0071BC !important;
 }
 	
-.fight-stick .button y {
-background: #FCEE21 !important;
+.fight-stick .y {
+    background: #FCEE21 !important;
 }
