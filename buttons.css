@@ -13,3 +13,8 @@
 .fight-stick .y {
     background: #FCEE21 !important;
 }
+
+.fight-stick .button.pressed {
+    background: #CCCCCC !important;
+    -webkit-filter: invert(0);
+}
