@@ -18,6 +18,23 @@
     background: #FCEE21 !important;
 }
 
+.fight-stick .bumper.left {
+    top: -25px;
+}
+
+.fight-stick .bumper.right {
+    top: -25px;
+}
+
+.fight-stick .trigger-button.left {
+    bottom: 110px;
+}
+
+.fight-stick .trigger-button.right {
+    bottom: 110px;
+}
+
+
 .fight-stick .button.pressed {
     background: #CCCCCC !important;
     -webkit-filter: invert(0);
