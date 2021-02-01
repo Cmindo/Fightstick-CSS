@@ -20,10 +20,12 @@
 
 .fight-stick .bumper.left {
     top: -25px;
+	position: absolute;
 }
 
 .fight-stick .bumper.right {
     top: -25px;
+	position: absolute;
 }
 
 .fight-stick .trigger-button.left {
