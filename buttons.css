@@ -2,6 +2,11 @@
 	background: url(https://vectr.com/tmp/fkn3C2Gyc/b2oOTJ73Pf.svg)
 }
 
+.fight-stick .fstick {
+    top: 198px;
+    left: 193px;
+}
+
 .fight-stick .a { 
     background: #39B54A !important;
 	left: -1px;
@@ -9,14 +14,17 @@
 
 .fight-stick .b {
     background: #C1272D !important;
+	right: 32px;
 }
 
 .fight-stick .x {
-    background: #0071BC !important;
+    background: #0071BC !important
+	left: 32px;
 }
 	
 .fight-stick .y {
     background: #FCEE21 !important;
+	right: 1px;
 }
 
 .fight-stick .bumper.left {
