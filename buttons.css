@@ -4,18 +4,22 @@
 
 .fight-stick .a { 
     background: #39B54A !important;
+	left: -1px;
 }
 
 .fight-stick .b {
     background: #C1272D !important;
+	left: -1px;
 }
 
 .fight-stick .x {
     background: #0071BC !important;
+	left: -1px;
 }
 	
 .fight-stick .y {
     background: #FCEE21 !important;
+	left: -1px;
 }
 
 .fight-stick .bumper.left {
