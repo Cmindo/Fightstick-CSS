@@ -19,22 +19,22 @@
 }
 
 .fight-stick .bumper.left {
-    top: -25px;
+    top: -27px;
 	position: absolute;
 }
 
 .fight-stick .bumper.right {
-    top: -25px;
+    top: -27px;
 	position: absolute;
 }
 
 .fight-stick .trigger-button.left {
-    bottom: 110px;
+    bottom: 103px;
 	position: absolute;
 }
 
 .fight-stick .trigger-button.right {
-    bottom: 110px;
+    bottom: 103px;
 	position: absolute;
 }
 
